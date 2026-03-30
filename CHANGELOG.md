@@ -14,5 +14,6 @@ All notable changes to this project will be documented in this file.
 - Artwork extraction now uses the active backend instead of hardcoding Apple Music
 
 ### Fixed
+- Floating window crash on Neovim 0.12.0 (`Invalid buffer id` in `nvim_open_win`) caused by wiped scratch buffer not being recreated
 - README `highlights.background` default was documented as `'NormalFloat'` but actual default is `'Normal'`
 - README highlight example was misleading (suggested switching to the already-default value)

@@ -4,9 +4,10 @@
 
 **Now playing for Neovim — album art, track info, and playback controls without leaving your editor.**
 
+[![CI](https://img.shields.io/github/actions/workflow/status/seanhalberthal/music.nvim/ci.yml?branch=main&style=flat&logo=githubactions&logoColor=white&label=CI)](https://github.com/seanhalberthal/music.nvim/actions)
 [![Neovim](https://img.shields.io/badge/Neovim-0.8%2B-57A143?style=flat&logo=neovim&logoColor=white)](https://neovim.io)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)](https://www.lua.org)
-[![macOS](https://img.shields.io/badge/macOS-Apple%20Music%20%2F%20Spotify-000?style=flat&logo=apple&logoColor=white)](https://github.com/seanhalberthal/music.nvim)
+[![macOS](https://img.shields.io/badge/macOS-supported-6e7681?style=flat&logo=apple&logoColor=white)](https://github.com/seanhalberthal/music.nvim)
 [![Spotify](https://img.shields.io/badge/Spotify-Web%20API-1DB954?style=flat&logo=spotify&logoColor=white)](https://developer.spotify.com)
 
 [Quick Start](#quick-start) · [Configuration](#configuration) · [Supported Backends](#supported-backends) · [How It Works](#how-it-works)

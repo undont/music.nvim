@@ -1,1 +1,1 @@
-require('music').setup()
+require("music").setup()
